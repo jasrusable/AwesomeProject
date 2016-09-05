@@ -19,6 +19,9 @@ class AwesomeProject extends Component {
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
+        <Text style={styles.welcome}>
+          Yo yo! - From Jason
+        </Text>
         <Text style={styles.instructions}>
           To get started, edit index.android.js
         </Text>
